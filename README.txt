@@ -2,6 +2,8 @@
 master
 ----------------------
 
+ここで日本語を入力してみる。
+
 continue improving the master branch.
 
 this is my test.
