@@ -1,4 +1,4 @@
-----------------------
+﻿----------------------
 master
 ----------------------
 
@@ -12,3 +12,4 @@ make it better.
 my test, and more my test.
 
 bye.
+and bye.
